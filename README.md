@@ -12,7 +12,7 @@ Once the table schemas had been created and the csv files imported, I have answe
 
 ## How to Install and Run the Project
 
-Please clone the repository to your local drive. Once cloned, the tables can be created via SQL apps such as pgAdmin4 after creating a database called sql-challenge.  Then the [data_analysis.sql](data_analysis.sql) can be run to find the answers to the queries raised.
+Please clone the repository to your local drive. Once cloned, the tables can be created via SQL apps such as pgAdmin4 after creating a database called sql-challenge.  Then the [data_analysis.sql](EmployeeSQL/data_analysis.sql) can be run to find the answers to the queries raised.
 
 ## How to Use the Project
 
