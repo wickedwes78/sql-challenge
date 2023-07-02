@@ -1,3 +1,6 @@
+# Ignore text files for drafting ERD
+DB Schema diagram.docx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
