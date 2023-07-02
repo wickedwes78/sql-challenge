@@ -5,10 +5,10 @@ _Module 9 Challenge - University of Adelaide - Data Analytics BootCamp_
 
 As a newly hired data engineer for Pewlett Hackard, I have been asked to do a research project about people whom the company employed during the 1980s and 1990s.
 
-The research was compiled by preparing a data model of the six provided csv files - see [ERD Diagram](ERD Diagram.png)
-The relevant table schemas were then engineered - see [table_schema.sql](table_schema.sql).
+The research was compiled by preparing a data model of the six provided csv files - see [ERD Diagram](EmployeeSQL/ERD_Diagram.png)
+The relevant table schemas were then engineered - see [table_schema.sql](EmployeeSQL/table_schema.sql).
 
-Once the table schemas had been created and the csv files imported, I have answered the questions raised - see [data_analysis.sql](data_analysis.sql).
+Once the table schemas had been created and the csv files imported, I have answered the questions raised - see [data_analysis.sql](EmployeeSQL/data_analysis.sql).
 
 ## How to Install and Run the Project
 
